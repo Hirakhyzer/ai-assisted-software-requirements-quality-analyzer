@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <rect width="1000" height="260" fill="#ffffff"/>
+  <style>.node{fill:#eff6ff;stroke:#1d4ed8;stroke-width:2;rx:10}.text{font-family:Arial;font-size:18px;fill:#111827}.arrow{stroke:#111827;stroke-width:2;marker-end:url(#a)}</style>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111827"/></marker></defs>
+  <rect class="node" x="40" y="90" width="145" height="70"/><text class="text" x="65" y="132">Draft spec</text>
+  <rect class="node" x="235" y="90" width="145" height="70"/><text class="text" x="257" y="132">AI review</text>
+  <rect class="node" x="430" y="90" width="160" height="70"/><text class="text" x="452" y="132">Human triage</text>
+  <rect class="node" x="640" y="90" width="145" height="70"/><text class="text" x="662" y="132">Revise reqs</text>
+  <rect class="node" x="835" y="90" width="125" height="70"/><text class="text" x="860" y="132">QA tests</text>
+  <line class="arrow" x1="185" y1="125" x2="235" y2="125"/><line class="arrow" x1="380" y1="125" x2="430" y2="125"/><line class="arrow" x1="590" y1="125" x2="640" y2="125"/><line class="arrow" x1="785" y1="125" x2="835" y2="125"/>
+</svg>
