@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360">
+  <rect width="1100" height="360" fill="#f8fafc"/>
+  <style>.box{fill:#ffffff;stroke:#1f2937;stroke-width:2;rx:12}.txt{font-family:Arial;font-size:20px;fill:#111827}.small{font-family:Arial;font-size:15px;fill:#374151}.arrow{stroke:#2563eb;stroke-width:3;marker-end:url(#m)}</style>
+  <defs><marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2563eb"/></marker></defs>
+  <rect class="box" x="35" y="120" width="155" height="85"/><text class="txt" x="60" y="154">Requirements</text><text class="small" x="63" y="181">synthetic or authorized</text>
+  <rect class="box" x="235" y="120" width="150" height="85"/><text class="txt" x="263" y="154">Parsing</text><text class="small" x="257" y="181">normalize + classify</text>
+  <rect class="box" x="430" y="70" width="180" height="85"/><text class="txt" x="462" y="104">Quality checks</text><text class="small" x="454" y="131">ambiguity + gaps</text>
+  <rect class="box" x="430" y="205" width="180" height="85"/><text class="txt" x="468" y="239">Conflicts</text><text class="small" x="456" y="266">inconsistency risk</text>
+  <rect class="box" x="655" y="120" width="170" height="85"/><text class="txt" x="689" y="154">Scoring</text><text class="small" x="681" y="181">quality + risk</text>
+  <rect class="box" x="870" y="120" width="185" height="85"/><text class="txt" x="905" y="154">Reports</text><text class="small" x="892" y="181">figures + audit log</text>
+  <line class="arrow" x1="190" y1="162" x2="235" y2="162"/><line class="arrow" x1="385" y1="162" x2="430" y2="112"/><line class="arrow" x1="385" y1="162" x2="430" y2="248"/><line class="arrow" x1="610" y1="112" x2="655" y2="160"/><line class="arrow" x1="610" y1="248" x2="655" y2="165"/><line class="arrow" x1="825" y1="162" x2="870" y2="162"/>
+</svg>
