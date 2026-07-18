@@ -1,0 +1,7 @@
+seed: 42
+repeat_templates: 3
+output_dir: outputs
+review_boundary: synthetic requirements review support only
+quality_thresholds:
+  high_review_priority_quality_index: 0.45
+  medium_review_priority_quality_index: 0.70
